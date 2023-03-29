@@ -2,9 +2,26 @@
     background-color: #ff9900;
     padding: 25px;
     background: rgba(255, 153, 0, 0.3);
+    position: sticky;
+    top: 0;
+    height: 100vh;
+}
+
+.cart h4 {
+    margin-left: 20px;
+    font-size: 22px;
+    font-weight: 700;
+    margin-bottom: 10px;
 }
 
 .cart p {
+    margin-left: 20px;
     font-size: 17px;
     font-weight: 600;
+}
+
+.cart h6 {
+    margin-left: 20px;
+    font-size: 17px;
+    font-weight: 700;
 }
