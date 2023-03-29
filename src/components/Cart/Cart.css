@@ -1,0 +1,10 @@
+.cart {
+    background-color: #ff9900;
+    padding: 25px;
+    background: rgba(255, 153, 0, 0.3);
+}
+
+.cart p {
+    font-size: 17px;
+    font-weight: 600;
+}
