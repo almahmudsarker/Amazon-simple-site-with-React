@@ -25,3 +25,15 @@
     font-size: 17px;
     font-weight: 700;
 }
+.btn-clear-cart{
+    width: 90%;
+    height: 56px;
+    font-size: 21px;
+    margin: 10px auto;
+    border-radius: 4px;
+    background: #FF3030;
+    color: #fff;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
